@@ -1,11 +1,3 @@
-<div align="center">
-  <img src="crazy-rabbit.png" alt="Crazy Rabbit" width="96" />
-  <h1>Crazy Rabbit</h1>
-  <p><strong>Software you own, in Swiss quality.</strong><br />
-  An independent software studio in St. Gallen, Switzerland.</p>
-  <p><a href="https://www.crazy-rabbit.com">crazy-rabbit.com</a></p>
-</div>
-
 ## The apps
 
 We don't take client work. Everything we program goes into our own three apps.
