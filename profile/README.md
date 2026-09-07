@@ -1,6 +1,6 @@
 ## The apps
 
-We don't take client work. Everything we program goes into our own three apps.
+Everything we program goes into our own three apps.
 
 | | App | What it does |
 | :-: | --- | --- |
